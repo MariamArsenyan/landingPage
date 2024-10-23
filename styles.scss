@@ -350,7 +350,7 @@ $theme-colors: (
     
 }
 footer .footer-social-icon:hover {
-    filter: brightness(0.8); /* Oscurece ligeramente el icono al hacer hover */
-    transform: scale(1.1); /* Aumenta el tamaño del icono */
-    transition: transform 0.3s ease, filter 0.3s ease; /* Suaviza el cambio de hover */
+    filter: brightness(0.8);
+    transform: scale(1.1); 
+    transition: transform 0.3s ease, filter 0.3s ease; 
 }
